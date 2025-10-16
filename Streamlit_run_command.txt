@@ -1,0 +1,1 @@
+streamlit run "E:\Deploy_Model\Multiple_Disease_Prediction\Multiple_Disease_Prediction.py"
